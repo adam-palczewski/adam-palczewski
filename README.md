@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adam-palczewski
+- 👀 I’m interested in full-stack development and am looking to complete CodeCademy's program in full-stack engineering! I am also going to be learning solidity so I can achieve my goal of becoming a blochain engineer!
+- 🌱 I’m currently learning full-stack development (HTML, CSS, JS, SQL) and will soon be learning solidity, and am learning R programming to assist my girlfriend in her master's program!
+- 💞️ I’m looking to collaborate on a plethora of solidity projects and a variety of full-stack projects, as well!
+- 📫 How to reach me: my email, adampalczewski@hotmail.com.
